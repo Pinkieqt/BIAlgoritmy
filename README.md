@@ -1,1 +1,3 @@
-# BIAlgoritmy
+# BIA
+
+### Student: KUC0277
